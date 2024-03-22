@@ -37,7 +37,7 @@ module.exports = {
             [process.env.VUE_APP_BASE_API]: {
 
                 // target: `http://localhost:8080`,
-              target: `http://moneygogogo.online/cmall/pc`,
+              target: `http://moneygogogo.online`,
 
                 changeOrigin: true,
                 pathRewrite: {
