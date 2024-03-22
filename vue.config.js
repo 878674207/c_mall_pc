@@ -36,9 +36,8 @@ module.exports = {
             // detail: https://cli.vuejs.org/config/#devserver-proxy
             [process.env.VUE_APP_BASE_API]: {
 
-                // target: `http://172.23.0.173:8081`,
-                // target: `https://u45j500724.imdo.co`,
-                target: `http://localhost:8082`,
+                // target: `http://localhost:8080`,
+              target: `http://moneygogogo.online/cmall/pc`,
 
                 changeOrigin: true,
                 pathRewrite: {
