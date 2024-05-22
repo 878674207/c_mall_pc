@@ -110,7 +110,6 @@ import {
   appOrder,
   addremark,
 } from '@/api/order/order.js'
-import { queryBrandList } from '@/api/evaluation/evaluation.js'
 import elDatePicker from '@/components/formBase/el-datePicker'
 import elSelectDicts from '@/components/formBase/el-selectDicts'
 import elSelectObject from '@/components/formBase/el-selectObject'
